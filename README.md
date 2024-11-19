@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=200&size=30&letterSpacing=&duration=3000&pause=200&color=CD8C18&background=71FF4E00&center=true&vCenter=true&width=435&lines=Hello+World;I'm+Alex+Szyszkowski;%F0%9F%92%BBSoftware+Engineer;%F0%9F%8C%8DOpen+Source+Enthusiast;%F0%9F%8E%A8Lover+of+Aesthetic+Design)](https://git.io/typing-svg)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Migoxx.visitor-badge" />
+<div align="center"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Migoxx.visitor-badge" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=200&size=30&letterSpacing=&duration=3000&pause=200&color=CD8C18&background=71FF4E00&center=true&vCenter=true&width=435&lines=Hello+World;I'm+Alex+Szyszkowski;%F0%9F%92%BBSoftware+Engineer;%F0%9F%8C%8DOpen+Source+Enthusiast;%F0%9F%8E%A8Lover+of+Aesthetic+Design" alt="Typing SVG" /></a>
+<div/> 
+
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
 
