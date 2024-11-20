@@ -7,7 +7,7 @@
 
 <br>
 <hr>
-<h3>passionate software developer from Germany</h3> <br>
+<h3>A passionate software developer from Germany</h3> <br>
 I'm currently learning
 
 
