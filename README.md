@@ -1,8 +1,4 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Migoxx.visitor-badge" > <br>
-
-
-
 <br>
 <hr>
 <h3>A passionate software developer from Germany</h3> <br>
