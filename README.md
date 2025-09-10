@@ -1,8 +1,6 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Migoxx.visitor-badge" > <br>
-<div align="center">  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=200&size=30&letterSpacing=&duration=3000&pause=400&color=00e4ff&background=71FF4E00&center=true&vCenter=true&width=435&lines=Hello+World !;I'm+Alex+Szyszkowski;Software+Engineer;Lover+of+Aesthetic+Design" alt="Typing SVG" /></a>
-<div/> 
+
 
 
 <br>
