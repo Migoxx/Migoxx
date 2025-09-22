@@ -1,33 +1,27 @@
-<h3>A passionate software developer from Germany</h3> <br>
-I'm currently learning.
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+I’m [**Alex**](https://github.com/Migoxx), a Junior developer based in Germany.
 
-## 💻 Languages and Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,js,arduino" / >
-  </a>
+Currently studying IT and learning programming fundamentals. 
+I’m especially curious about web development and love experimenting to create lightning-fast, accessible interfaces that feel effortless
 
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=Migoxx&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Migoxx&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Migoxx&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Migoxx&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/AlexSzysz) 
-</p>
-  
-
-  
+Outside of coding, you’ll find me listening to techno, cooking or hitting the gym.😅
 
 
 
+### Currently Learning🌱 
+
+- HTML, CSS & JavaScript, C#,
+
+- Arduino
 
 
+
+### Fun Facts🎲 
+
+I enjoy both coffee ☕ and tea 🍵.
+
+I love watching movies 🎬 and anime 📺.
+
+Techno music 🎶 is my go-to for focus and energy.
 
