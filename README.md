@@ -9,17 +9,18 @@ I'm currently learning.
   </a>
 </p>
 
-## 📊 GitHub Stats:  	  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migoxx&rank_icon=github&show_icons=true&theme=react)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Migoxx&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Migoxx&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Migoxx&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Migoxx&icon=0&color=6)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/AlexSzysz) 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/discord.com/users/321678458843430933) 
-
-
-## 💰 You can support me by Donating :D
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AlexSzysz) 
+  
 
   
 
