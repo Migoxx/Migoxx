@@ -36,8 +36,6 @@ Outside of coding, you’ll find me listening to techno, cooking or hitting the 
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
